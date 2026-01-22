@@ -8,7 +8,7 @@ plugins:
   - jekyll-remote-theme
 
 # Optional: Add your social links
-# github_username: LJones-alt
+github_username: LJones-alt
 # twitter_username: your_twitter
 
 # Build settings
